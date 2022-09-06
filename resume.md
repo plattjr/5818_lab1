@@ -20,8 +20,6 @@ Bachelors of Science in Geography, *2021*\
 Appalachian State University\
 Boone, NC, USA
 
-___
-
 ## Work Experience
 
 **[Appalachian State University Department of Geography and Planning](http://geo.appstate.edu)**\
@@ -60,7 +58,8 @@ Stormwater Field Technician/GIS Intern | *2008-2011*
     * Communicating and solving problems with the public
     * Time management (deadlines with private companies that needed governmental approval of construction)
     * Project collaboration
-___
+
+***
 
 ### *Teaching Experience*
 **GHY 2812** - Geospatial Technology in a Changing World | *Fall 2022*\
