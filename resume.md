@@ -8,9 +8,9 @@ Contact: plattjr@appstate.edu
 
 <img src="assets/images/headshot.jpg" />
 
-___
-### About Me
+###About Me
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
+***
 
 ### Education
 Masters of Art, *December 2022*\
@@ -22,7 +22,6 @@ Appalachian State University\
 Boone, NC, USA
 
 ### Work Experience
-
 
 **[Appalachian State University Department of Geography and Planning](http://geo.appstate.edu)**\
 GIS Lab Supervisor and Adjunct Instructor | *2019 - July 2021*
@@ -60,8 +59,9 @@ Stormwater Field Technician/GIS Intern | *2008-2011*
     * Communicating and solving problems with the public
     * Time management (deadlines with private companies that needed governmental approval of construction)
     * Project collaboration
- 
- **Teaching Experience**
+___
+
+###*Teaching Experience*
   * GHY 2812 - Geospatial Technology in a Changing World | *Fall 2022*
   * GHY 1010 Lab - Global Climate Change | *1 section, Spring 2022*
   * GHY 1012 Labs - Global Change in the Biosphere | *3 sections, Spring 2022. 1 section, Fall 2021*
