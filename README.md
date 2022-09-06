@@ -1,2 +1,2 @@
-# 5818_lab1
+# Resume
 First lab, GHY 5818.  Markdown resume.
