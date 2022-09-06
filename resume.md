@@ -61,7 +61,7 @@ Stormwater Field Technician/GIS Intern | *2008-2011*
     * Project collaboration
 ___
 
-###*Teaching Experience*
+### *Teaching Experience*
   * GHY 2812 - Geospatial Technology in a Changing World | *Fall 2022*
   * GHY 1010 Lab - Global Climate Change | *1 section, Spring 2022*
   * GHY 1012 Labs - Global Change in the Biosphere | *3 sections, Spring 2022. 1 section, Fall 2021*
