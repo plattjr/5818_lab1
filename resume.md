@@ -20,6 +20,8 @@ Bachelors of Science in Geography, *2021*\
 Appalachian State University\
 Boone, NC, USA
 
+___
+
 ### Work Experience
 
 **[Appalachian State University Department of Geography and Planning](http://geo.appstate.edu)**\
