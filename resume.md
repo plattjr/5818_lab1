@@ -11,7 +11,7 @@ I dedicate focus and tenacity to my work tasks and a desire to see projects thro
 
 ___
 
-### Education
+## Education
 Masters of Art, *December 2022*\
 Appalachian State University\
 Boone, NC, USA
@@ -22,7 +22,7 @@ Boone, NC, USA
 
 ___
 
-### Work Experience
+## Work Experience
 
 **[Appalachian State University Department of Geography and Planning](http://geo.appstate.edu)**\
 GIS Lab Supervisor and Adjunct Instructor | *2019 - July 2021*
