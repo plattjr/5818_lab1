@@ -6,7 +6,7 @@ Contact: plattjr@appstate.edu
 
 <img src="assets/images/headshot.jpg" />
 
-###About Me
+### About Me
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 ***
 
