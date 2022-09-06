@@ -1,16 +1,18 @@
 # Josh Platt
+<p style=font-size:13px>
 GIS Lab Supervisor & Adjunct Instructor <BR>
 Appalachian State University,<BR>
 Boone, North Carolina<BR>
 Contact: plattjr@appstate.edu
+</p>
 
 <img src="assets/images/headshot.jpg" />
 
 ___
-## About Me
+### About Me
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
 
-## Education
+### Education
 Masters of Art, *December 2022*\
 Appalachian State University\
 Boone, NC, USA
@@ -19,7 +21,7 @@ Bachelors of Science in Geography, *2021*\
 Appalachian State University\
 Boone, NC, USA
 
-## Work Experience
+### Work Experience
 
 
 **[Appalachian State University Department of Geography and Planning](http://geo.appstate.edu)**\
@@ -59,5 +61,5 @@ Stormwater Field Technician/GIS Intern | *2008-2011*
     * Time management (deadlines with private companies that needed governmental approval of construction)
     * Project collaboration
 
-## Skills and Proficiencies
+### *Skills and Proficiencies*
   * Adobe Creative Suite, ArcGIS, QGIS, Office, HTML, R Programming Language, lab processing, detail oriented
