@@ -8,7 +8,9 @@ Contact: plattjr@appstate.edu
 
 ### About Me
 I dedicate focus and tenacity to my work tasks and a desire to see projects through til completion.  My natural curiosity has led to an array of hobbies, outdoor recreation, and field work experience.
+
 --
+
 ### Education
 Masters of Art, *December 2022*\
 Appalachian State University\
