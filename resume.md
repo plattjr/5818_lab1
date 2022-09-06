@@ -1,10 +1,8 @@
 # Josh Platt
-<p style=font-size:13px;font-family:helvetica>
 GIS Lab Supervisor & Adjunct Instructor <BR>
 Appalachian State University,<BR>
 Boone, North Carolina<BR>
 Contact: plattjr@appstate.edu
-</p>
 
 <img src="assets/images/headshot.jpg" />
 
